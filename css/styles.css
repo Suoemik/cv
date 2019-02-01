@@ -1,0 +1,18 @@
+  body {
+    background-color: #e6e6fa;
+  }
+  hr{
+    border-color: #fff;
+    border-style: dotted none none;
+    border-top-width:thick;
+    width: 10%;
+  }
+  img{
+    height: 128px;
+  }
+h1{
+  color: #61b1b8;
+}
+h3{
+  color: #61b1b8;
+}
