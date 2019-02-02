@@ -1,18 +1,30 @@
   body {
     background-color: #e6e6fa;
   }
-  hr{
+
+  hr {
     border-color: #fff;
-    border-style: dotted none none;
-    border-top-width:thick;
+    border-style: double none none;
+    border-top-width: thick;
     width: 10%;
   }
-  img{
+
+  .circular {
     height: 128px;
+    border-radius: 100%;
   }
-h1{
-  color: #61b1b8;
-}
-h3{
-  color: #61b1b8;
-}
+
+  img{
+    opacity: 0.5;
+  }
+  img:hover{
+    opacity: 1;
+  }
+
+  h1 {
+    color: #61b1b8;
+  }
+
+  h3 {
+    color: #61b1b8;
+  }
